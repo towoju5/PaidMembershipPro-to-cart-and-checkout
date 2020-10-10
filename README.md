@@ -1,0 +1,3 @@
+# PaidMembershipPro-to-cart-and-checkout
+
+Do you need to redirect your membership payment to cart directly? here is a simple code to do so. very straight forward you can read on how to implement the code on https://insidetechtools.com or you can contact me directly and i will lovely explain or get it done for you.....
